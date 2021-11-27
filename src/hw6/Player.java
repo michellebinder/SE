@@ -1,4 +1,4 @@
-package SoftwareEngineering;
+package hw6;
 
 public class Player {
 

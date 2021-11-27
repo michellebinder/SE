@@ -1,9 +1,7 @@
-package SoftwareEngineering;
+package hw6;
 
-import java.util.Scanner;
-
-import static SoftwareEngineering.Game.numbersPlayer1;
-import static SoftwareEngineering.Game.numbersPlayer2;
+import static hw6.Game.numbersPlayer1;
+import static hw6.Game.numbersPlayer2;
 
 public class Main {
 

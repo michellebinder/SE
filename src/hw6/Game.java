@@ -1,8 +1,7 @@
-package SoftwareEngineering;
+package hw6;
 
 import java.util.ArrayList;
 import java.util.Random;
-import java.util.Scanner;
 import java.util.stream.IntStream;
 
 public class Game {
